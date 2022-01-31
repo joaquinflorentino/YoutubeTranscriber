@@ -1,0 +1,6 @@
+__pycache__/
+transcript.txt
+*.mp3
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
